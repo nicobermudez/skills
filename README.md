@@ -1,4 +1,4 @@
-# nico-skills
+# nico's skills
 
 Installable GitHub Copilot skills for common engineering tasks.
 
