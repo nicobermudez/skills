@@ -1,7 +1,5 @@
 # nico's skills
 
-Installable GitHub Copilot skills for common engineering tasks.
-
 ## Skills
 
 - `clean-code-core-principles`
